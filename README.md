@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Niraj Kumar
 
-<!--
-**nirajkumardev/nirajkumardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Engineer | Java Developer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+I'm passionate about learning, building, and solving problems through code.  
+I enjoy working with **Java**, exploring **Android Development**, and writing clean, efficient programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills & Tools
+- **Languages:** Java, C++, HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+- **Database:** MySQL  
+
+---
+
+### 🌱 Currently Learning
+- Android App Development  
+- Data Structures & Algorithms  
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nirajkumardev)
+[![Gmail](https://img.shields.io/badge/Email-nirajkumar.code@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nirajkumar.code@gmail.com)
+
+---
+
+> *“Code. Learn. Improve. Repeat.”* ✨
